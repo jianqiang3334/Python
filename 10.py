@@ -1,5 +1,5 @@
 #coding=utf-8
-'''
+
 def printMyaddress():
     print '武汉'
     print 'Hubei'
@@ -75,5 +75,3 @@ for a in range(0,3):
     b.append(c)
 
 money(b[0],b[1],b[2])
-
-'''
