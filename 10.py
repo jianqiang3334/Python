@@ -11,6 +11,7 @@ printMyaddress()
 
 def printMyaddress(myname,city):
     print myname
+    print myname
     print city
     print 'hanyang abc'
 
